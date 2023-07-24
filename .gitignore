@@ -8,6 +8,6 @@ build
 index.json
 stored_documents.pkl
 README.md
-./streamlit_sql_sandbox
-./streamlit_term_definition
-./streamlit_vector
+/streamlit_sql_sandbox
+/streamlit_term_definition
+/streamlit_vector
