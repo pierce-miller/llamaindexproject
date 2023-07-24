@@ -7,7 +7,7 @@ node_modules
 build
 index.json
 stored_documents.pkl
-/ig.txt
+ig.txt
 /streamlit_sql_sandbox
 /streamlit_term_definition
 /streamlit_vector
