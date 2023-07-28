@@ -6,7 +6,7 @@ const Header = () => {
       </div>
       <div className='app-header__sub'>
         <div>
-          <p>React-Flask Demo</p>
+          <p>Film Script Generator</p>
         </div>
       </div>
     </header>
