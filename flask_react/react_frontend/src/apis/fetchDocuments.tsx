@@ -12,6 +12,6 @@ const fetchDocuments = async (): Promise<Document[]> => {
 
   const documentList = (await response.json()) as Document[];
   return documentList;
-};
+};//
 
 export default fetchDocuments;
